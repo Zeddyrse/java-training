@@ -1,5 +1,11 @@
 ## PRECISIONS
 
+REPOSITORY JAVA  (Première class)
+
+REPOSITORY CREER POUR DES VALIDATIONS DE QUETES, PERMETTANT D'EVALUER NOTRE COMPRÉHENSION SUR LES DIFFERENTES CONNAISSANCES ACQUISES AU COUR DE LA FORMATION.
+
+ICI DES QUETES SUR JAVA.
+
 # Java Training 
 
 Java Training est une série de quêtes qui vont te permettre de t’entraîner au développement Java. Tu auras la possibilité de tester automatiquement le code de chacun des exercices.
