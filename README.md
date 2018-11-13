@@ -1,3 +1,5 @@
+## PRECISIONS
+
 # Java Training 
 
 Java Training est une série de quêtes qui vont te permettre de t’entraîner au développement Java. Tu auras la possibilité de tester automatiquement le code de chacun des exercices.
